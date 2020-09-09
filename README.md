@@ -1,14 +1,14 @@
-Laravel CRUD 
-Project features:
+Laravel CRUD <br>
+Project features: <br>
 - Create new record
 - Read from database
 - Update existing records
-- Delete records
-How to use it:
-Copy the repository URL and open it with the code editor, save the project to the root directory of your local server e.g.(AMPPS, XAMPP). In your root folder open cmd or bash and execute following:
+- Delete records <br>
+How to use it: <br>
+Copy the repository URL and open it with the code editor, save the project to the root directory of your local server e.g.(AMPPS, XAMPP). In your root folder open cmd or bash and execute following:<br>
 
-php composer.phar install
-Create project DB:
-Open MySQL Workbench.
-Then go to Server -> Data Import. 
-Select menuapp_database from your root folder and start the import.
+php composer.phar install <br>
+Create project DB: <br>
+Open MySQL Workbench. <br>
+Then go to Server -> Data Import. <br>
+Select menuapp_database from your root folder and start the import. <br>
