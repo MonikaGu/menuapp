@@ -4,6 +4,7 @@ Project features: <br>
 - Read from database
 - Update existing records
 - Delete records <br>
+
 How to use it: <br>
 Copy the repository URL and open it with the code editor, save the project to the root directory of your local server e.g.(AMPPS, XAMPP). In your root folder open cmd or bash and execute following:<br>
 
