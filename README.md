@@ -13,3 +13,8 @@ Create project DB: <br>
 Open MySQL Workbench. <br>
 Then go to Server -> Data Import. <br>
 Select menuapp_database from your root folder and start the import. <br>
+
+Login: <br>
+name: admin <br>
+email: admin@admin.com <br>
+password: admin1234 <br>
