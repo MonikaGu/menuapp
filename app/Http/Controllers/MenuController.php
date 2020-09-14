@@ -25,7 +25,7 @@ class MenuController extends Controller
         //        'about' => 'required',
         //    ]);
         if (empty($request['title']) && empty($request['price']) && empty($request['weight']) && empty($request['meat']) && empty($request['about'])) {
-            return redirect('/menu')->with('status_error', 'Įveskite duomenis!');
+            return redirect('/menu')->with('status_error', 'Įveskite duomenis!'); 
         }
      // can be used for seeing the insides of the incoming request
         //  var_dump($request->all()); die();
